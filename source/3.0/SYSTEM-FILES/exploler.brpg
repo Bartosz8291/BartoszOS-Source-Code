@@ -1,0 +1,12 @@
+# task exploler
+exploler 3247324
+/* FILES
+1.brsys
+taskbar.brsys
+system/bytes/X64 64
+system/bytes/X32 32
+*/
+# taskbar
+display when (FIlE == exploler.brpg = RUNNED)
+# end
+disk tag BD:\
